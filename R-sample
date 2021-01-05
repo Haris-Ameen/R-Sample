@@ -1,2 +1,8 @@
 # New R files
 print("R Files")
+
+name = haris
+print(name)
+
+name = sana
+print(sana)
